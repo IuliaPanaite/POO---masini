@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1492961774 source:d:\code blocks\proiect poo\masini.cpp
+	<iostream>
+	<string.h>
+	"masini.h"
+
+1492956270 d:\code blocks\proiect poo\masini.h
+	<iostream>
+	"lap.h"
+
+1492980071 source:d:\code blocks\proiect poo\main.cpp
+	<iostream>
+	<time.h>
+	"masini.h"
+	<string.h>
+	<stdlib.h>
+
+1492980656 source:d:\code blocks\proiect poo\lap.cpp
+	<iostream>
+	<string.h>
+	"masini.h"
+
+1492956268 d:\code blocks\proiect poo\lap.h
+
